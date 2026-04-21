@@ -6,3 +6,5 @@ https://Noorulain123-ch.github.io/colorPallete.html
 https://Noorulain123-ch.github.io/passwordGenerator.html
 # Expense Tracker
 https://Noorulain123-ch.github.io/expenseTracker.html
+# Pricing Cards
+https://Noorulain123-ch.github.io/pricingCards.html
